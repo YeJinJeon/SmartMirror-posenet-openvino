@@ -17,6 +17,8 @@
 > python manage.py runserver
 
 ## Demo
+<img src="https://user-images.githubusercontent.com/46892916/107648003-275ea700-6cbf-11eb-8779-43e14b174520.PNG" width="680px" height="500px" alt="Demo-video"></img><br/>
+![Demo Video](https://user-images.githubusercontent.com/46892916/107647493-8d96fa00-6cbe-11eb-9d9c-d01e2d1d79bb.mp4)
 
 ## reference
 * [Posenet-python Github repository](https://github.com/rwightman/posenet-python)
