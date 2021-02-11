@@ -1,2 +1,22 @@
 # SmartMirror-posenet-openvino
-뇌졸중 재활을 보조하는 AI 스마트 미러 프로젝트
+뇌졸중 가정재활을 보조하는 AI 스마트 미러 프로젝트
+
+## Installation
+1. Tensorflow 3.7
+2. Django
+> python -m pip install Django
+3. Picamera module
+> easy_install -U picamera
+4. [openvino for Window 10](https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_windows.html#Using-Demo-Scripts, "install openvino for window 10")
+
+## Hardware Design
+
+## Running
+> python manage.py runserver
+
+## Demo
+
+## reference
+* [Posenet-python Github repository](https://github.com/rwightman/posenet-python)
+* [Github repository to run inference on RPi](https://github.com/Oviyum/openvino-posenet)
+* [Real-time Pose-estimation on the Rpi with Movidius NCS and Openvino](https://medium.com/@oviyum/real-time-human-pose-estimation-on-the-edge-with-movidius-ncs-and-openvino-ac3b13536)
