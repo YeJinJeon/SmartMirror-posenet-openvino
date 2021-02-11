@@ -10,6 +10,8 @@
 4. [openvino for Window 10](https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_windows.html#Using-Demo-Scripts, "install openvino for window 10")
 
 ## Hardware Design
+![raspberry](https://user-images.githubusercontent.com/46892916/107644232-866ded00-6cba-11eb-906b-02e4053565b3.png)
+![smart-mirror](https://user-images.githubusercontent.com/46892916/107644265-8ff75500-6cba-11eb-96bf-50b5046e01b3.png)
 
 ## Running
 > python manage.py runserver
